@@ -84,3 +84,5 @@ for (let i = 2; i <= n; i++) {
 }
 
 console.log(`Факториал числа ${n} равно ${factorial}`);
+
+Finish
